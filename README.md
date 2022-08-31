@@ -30,8 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+GIF created with [Recordit](http://www.recordit.co).
+http://recordit.co/BmowrUr4vO
 ## Notes
 
 Describe any challenges encountered while building the app.
